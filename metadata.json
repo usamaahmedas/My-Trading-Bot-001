@@ -1,0 +1,6 @@
+{
+  "name": "AlphaTrade BTC Bot",
+  "description": "Professional BTCUSDT trading bot with advanced signal scoring, automated SL/TP, position sizing, and a high-performance historical backtester.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
